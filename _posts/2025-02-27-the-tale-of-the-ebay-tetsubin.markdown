@@ -34,20 +34,20 @@ For a new tetsubin, Hojo Tea recommends the following key points:
     <td style="border: 1px solid black; padding: 8px;">
       <a href="https://www.teachat.com/viewtopic.php?f=84&t=22232" target="_blank"><strong>Jayinhk</strong></a>
     </td>
-    <td style="border: 1px solid black; padding: 8px;">I'd attack the inside with steel wool/sandpaper, wash it real well, and then maybe apply a phosphate finish (diet Sprite) or use white vinegar.</td>
+    <td style="border: 1px solid black; padding: 8px;">"I'd attack the inside with steel wool/sandpaper, wash it real well, and then maybe apply a phosphate finish (diet Sprite) or use white vinegar."</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
       <a href="https://www.teachat.com/viewtopic.php?f=84&t=22232" target="_blank"><strong>Tcsmeg</strong></a>
     </td>
-    <td style="border: 1px solid black; padding: 8px;">Boil with tea leaf for at least 30 min, then lemon water, then washed rice water, and finally mineral/hard water until clear.</td>
+    <td style="border: 1px solid black; padding: 8px;">"Boil with tea leaf for at least 30 min, then lemon water, then washed rice water, and finally mineral/hard water until clear."</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
       <a href="https://www.teachat.com/viewtopic.php?t=17661" target="_blank"><strong>Tkellyd</strong></a>
     </td>
-    <td style="border: 1px solid black; padding: 8px;">What I do to clean my antique tetsubin that I plan to use, is scrape/chisel the inside with a plastic kitchen scraper, the one with the scraper and brush (mine is an OXO brand). I usually do this over time depending on the amount of rust and fir. Don't forget to put water in the pot and bring to a roiling boil, pour out, and be sure that the water evaporates.
-To blacken the pot, boil water and green tea leaves (use the cheap stuff) in the pot. Mop the outside of the pot and handle with paper towels (use tongs to hold) soaked in the tea to cover the rust. Pour off the tea water when you are finished. Allow to evaporate.
+    <td style="border: 1px solid black; padding: 8px;">"What I do to clean my antique tetsubin that I plan to use, is scrape/chisel the inside with a plastic kitchen scraper, the one with the scraper and brush (mine is an OXO brand). I usually do this over time depending on the amount of rust and fir. Don't forget to put water in the pot and bring to a roiling boil, pour out, and be sure that the water evaporates.
+To blacken the pot, boil water and green tea leaves (use the cheap stuff) in the pot. Mop the outside of the pot and handle with paper towels (use tongs to hold) soaked in the tea to cover the rust. Pour off the tea water when you are finished. Allow to evaporate."
 </td>
   </tr>
 </table>
