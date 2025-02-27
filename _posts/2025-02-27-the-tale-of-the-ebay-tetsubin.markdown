@@ -77,6 +77,20 @@ Here's how she looked before:
     <img src="/assets/article_images/IMG_7584.jpg" alt="Lid before restoration" width="600">
 </div>
 
+Quickly, I realized that this was not enough. As the water heated, I noticed a tiny stream of bubbles rising to the surface. Frantically I searched the bottom, but there was no leak in sight. What I mistakely assumed was sloppy craftsmanship or just signs of rust turned out to be a much deeper mystery: he entire bottom of the pot was covered in a thick layer of scale and something black concealing it!
+
+<div style="text-align: center;">
+    <img src="/assets/article_images/IMG_7595.jpg" alt="Interior mid-revelation" width="600">
+</div>
+Quickly I got to work chipping away this scale layer. To aid the process, I added distilled white vinegar and let it soak for around twenty minutes or so. Here's what she looked like after some elbow grease:
+<div style="text-align: center;">
+    <img src="/assets/article_images/IMG_7599.jpg" alt="Interior mid-revelation" width="600">
+</div>
+<div style="text-align: center;">
+    <img src="/assets/article_images/IMG_7600.jpg" alt="Interior mid-revelation" width="600">
+</div>
+A part of me almost felt bad for removing the layers of scale; it was like removing the life story of the kettle. But at this point, it was not going to be usable if it was discoloring the water and spitting up pieces of scale. I was reminded that I was giving a piece another chance to do what it was meant to, and that soothed my worries.
+
 ## References
 Hiratsuka, H., Takeno, K., & Sasaki, K. (2004). Water quality changes with heating of tap water using Nanbu iron kettle and foreign-made iron kettle. *Japan Journal of Food Engineering (Japan), 5(2).*
 
