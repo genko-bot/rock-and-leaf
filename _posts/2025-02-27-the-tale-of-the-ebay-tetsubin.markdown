@@ -25,12 +25,20 @@ For a new tetsubin, Hojo Tea recommends the following key points:
 
 ### Various Tea Chat Members  
 
-| **Name**     | **Advice** |
-|-------------|-------------------------------------------------------------|
-| **Jayinhk** | "I'd attack the inside with steel wool/sandpaper, wash it real well, and then maybe apply a phosphate finish (diet Sprite) or use white vinegar." |
-| **Tcsmeg**  | 1. Boil with tea leaves (preferably green tea) for at least 30 min  2. Boil with lemon water (cut and throw in the whole lemon) for 60 min  3. Boil with washed rice water  4. Continue boiling with mineral/hard water until the water is clear. |
-| **Tkellyd** | "For cleaning my antique tetsubin, I scrape/chisel the inside with a plastic kitchen scraper. Then, I bring water to a rolling boil, pour it out, and ensure the water evaporates completely. To blacken the pot, I boil cheap green tea leaves inside it and mop the outside with tea-soaked paper towels (using tongs to hold them)." |
-| **Tatsurou** | "For badly rusted pots: Fill with water, add a green tea teabag, and boil for 30 min. The water will turn black due to the reaction of tea tannins and iron. Let sit for a full day, then rinse and boil fresh water several times. Repeat until there's no rusty color, smell, or taste." |
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Name</th>
+    <th style="border: 1px solid black; padding: 8px;">Advice</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">Jayinhk</td>
+    <td style="border: 1px solid black; padding: 8px;">I'd attack the inside with steel wool/sandpaper, wash it real well, and then maybe apply a phosphate finish (diet Sprite) or use white vinegar.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">Tcsmeg</td>
+    <td style="border: 1px solid black; padding: 8px;">Boil with tea leaf for at least 30 min, then lemon water, then washed rice water, and finally mineral/hard water until clear.</td>
+  </tr>
+</table>
 
 Since I don't know the last time this kettle has been cleaned in its past 100+ years, I decided that I would forsake Hojo's no-scrubbing recommendation since his advice is primarily for the new tetsubin that he sells. 
 
