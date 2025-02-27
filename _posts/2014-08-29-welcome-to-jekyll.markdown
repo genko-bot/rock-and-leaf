@@ -1,39 +1,35 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-08-29 14:34:25
-categories: jekyll update
-tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+title: 'The Tale of the Ebay Tetsubin'
+publishedAt: '2025-02-25'
+summary: ''
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Tea is nearly 100% water, so it follows that water quality is most important facotrs influencing how your tea tastes.
+## The Tetsubin
+Who can resist the tales of the tetsubin's magical water softening properties? For the uninitiated, the idea is simple: water, when boiled in a tetsubin (or other iron vessel), is said to improve the quality of the water. This is not just speculation, as it has been found that iron compounds released in the water bind to tannins which affect the flavor of the tea (Hiratsuka et al., 2004). Iron in water has also been shown to 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## The Dilemma
+If you have read anything about tetsubins care on the internet, 100 people will tell you 100 different things. Because of this, I decided to collect and summarize the information out there so that I could form a game plan for when my slighly rusty, definetly a little gnarly, antique tetsubin arrives.
 
-Jekyll also offers powerful support for code snippets:
+### Hojo Tea
+For a new tetsubin, Hojo Tea recommends the following key points: 
+> + Do not wash or rub the inside or outside of tetsubin with a sponge, brush or detergent.
+> + Never try to remove rust with physical strength, scrub it or wash it with detergent. If rust appears on the inside, add green tea or green oolong tea leaves and boil for a while, switch off the heater, let it naturally cools down and leave it for a few hours.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Various Tea Chat Members
+| Name | Advice | Link |
+| ---- | ---- | ----------- |
+| `Jayinhk` | "I'd attack the inside with steel wool/sandpaper, wash it real well and then maybe apply a phosphate finish (diet Sprite) or use white vinegar." | Name of the resource |
+| `Tcsmeg` | "1. Boil with tea leaf (preferbly thrown green tea) for at least 30 min 2. Boil with lemon water (just cut and throw the whole lemon) say 60 min 3. Boil with washed rice water 4. Continue Boil with mineral/hard water until the water is clear.”  | Path to the resource |
+| `Tkellyd` | "What I do to clean my antique tetsubin that I plan to use, is scrape/chisel the inside with a plastic kitchen scraper, the one with the scraper and brush (mine is an OXO brand). I usually do this over time depending on the amount of rust and fir. Don't forget to put water in the pot and bring to a roiling boil, pour out, and be sure that the water evaporates. To blacken the pot, boil water and green tea leaves (use the cheap stuff) in the pot. Mop the outside of the pot and handle with paper towels (use tongs to hold) soaked in the tea to cover the rust. Pour off the tea water when you are finished." | Path to the resource |
+| `Tatsurou` | "when it's badly rusted, fill with water, put a green tea teabag, and let boil for 30 min. The water will turn black by the reaction of tea tannin and iron. Remove from heat and leave it for a full day. Pour out the black water, rinse with fresh water, then boil fresh water a couple of times, each time with fresh water. Pour boiled water in tea cup to test for color, smell and taste. If still picks up rust, repeat the process above. When the boiled water has no rusty color or smell or taste, then the pot is good to use." | link |
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+## Test Table
+| Column1 | Column2 |
+|---------|---------|
+| Data1   | Data2   |
+| Data3   | Data4   |
 
-{% highlight js %}
+## References
 
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
+Hiratsuka, H., Takeno, K., & Sasaki, K. (2004). Water quality changes with heating of tap water using Nanbu iron kettle and foreign-made iron kettle. Japan Journal of Food Engineering (Japan), 5(2).
 
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
