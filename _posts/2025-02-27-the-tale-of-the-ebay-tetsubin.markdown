@@ -54,16 +54,15 @@ To blacken the pot, boil water and green tea leaves (use the cheap stuff) in the
   </tr>
 </table>
 
-![Alt text](assets/article_images/IMG_7582.jpg)
+![Tetsubin](/assets/article_images/IMG_7582.jpg)
 
 
 Since I don't know the last time this kettle has been cleaned in its past 100+ years, I decided that I would forsake Hojo's no-scrubbing recommendation since his advice is primarily for the new tetsubin that he sells. 
 
 I came up with this order of operations:
 1. Gently scrub the interior and exterior without soap.
-2. Remove the spout's scale buildup with vinegar.
-3. Boil low quality green tea in the pot for 30 minutes, then let it rest a few hours off the heat before pouring it off and completely drying the kettle.
-4. Reassess depending on the outcome.
+2. Boil low quality green tea in the pot for 30 minutes, then let it rest a few hours off the heat before pouring it off and completely drying the kettle.
+3. Reassess depending on the outcome.
 
 ## References
 Hiratsuka, H., Takeno, K., & Sasaki, K. (2004). Water quality changes with heating of tap water using Nanbu iron kettle and foreign-made iron kettle. *Japan Journal of Food Engineering (Japan), 5(2).*
