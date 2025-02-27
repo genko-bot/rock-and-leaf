@@ -23,8 +23,6 @@ For a new tetsubin, Hojo Tea recommends the following key points:
 > - Do not wash or rub the inside or outside of tetsubin with a sponge, brush, or detergent.
 > - Never try to remove rust with physical strength, scrub it, or wash it with detergent. If rust appears on the inside, add green tea or green oolong tea leaves and boil for a while, switch off the heater, let it naturally cool down, and leave it for a few hours.
 ### Various Tea Chat Members
-### Various Tea Chat Members  
-
 | **Name**      | **Advice** |
 |--------------|------------------------------------------------------------------|
 | **Jayinhk**  | *"I'd attack the inside with steel wool/sandpaper, wash it real well, and then maybe apply a phosphate finish (diet Sprite) or use white vinegar."* |
