@@ -22,15 +22,13 @@ For a new tetsubin, Hojo Tea recommends the following key points:
 
 > - Do not wash or rub the inside or outside of tetsubin with a sponge, brush, or detergent.
 > - Never try to remove rust with physical strength, scrub it, or wash it with detergent. If rust appears on the inside, add green tea or green oolong tea leaves and boil for a while, switch off the heater, let it naturally cool down, and leave it for a few hours.
+
 ### Various Tea Chat Members  
 
 | **Name**     | **Advice** |
 |-------------|-------------------------------------------------------------|
 | **Jayinhk** | "I'd attack the inside with steel wool/sandpaper, wash it real well, and then maybe apply a phosphate finish (diet Sprite) or use white vinegar." |
-| **Tcsmeg**  | 1. Boil with tea leaves (preferably green tea) for at least 30 min  
-2. Boil with lemon water (cut and throw in the whole lemon) for 60 min  
-3. Boil with washed rice water  
-4. Continue boiling with mineral/hard water until the water is clear. |
+| **Tcsmeg**  | 1. Boil with tea leaves (preferably green tea) for at least 30 min  2. Boil with lemon water (cut and throw in the whole lemon) for 60 min  3. Boil with washed rice water  4. Continue boiling with mineral/hard water until the water is clear. |
 | **Tkellyd** | "For cleaning my antique tetsubin, I scrape/chisel the inside with a plastic kitchen scraper. Then, I bring water to a rolling boil, pour it out, and ensure the water evaporates completely. To blacken the pot, I boil cheap green tea leaves inside it and mop the outside with tea-soaked paper towels (using tongs to hold them)." |
 | **Tatsurou** | "For badly rusted pots: Fill with water, add a green tea teabag, and boil for 30 min. The water will turn black due to the reaction of tea tannins and iron. Let sit for a full day, then rinse and boil fresh water several times. Repeat until there's no rusty color, smell, or taste." |
 
