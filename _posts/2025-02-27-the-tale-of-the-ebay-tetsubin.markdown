@@ -54,8 +54,10 @@ To blacken the pot, boil water and green tea leaves (use the cheap stuff) in the
   </tr>
 </table>
 
-![Tetsubin](/assets/article_images/IMG_7582.jpg)
-<img src="/assets/article_images/IMG_7582.jpg" alt="Tetsubin" width="600">
+<div style="text-align: center;">
+    <img src="/assets/article_images/IMG_7582.jpg" alt="Before restoration" width="600">
+</div>
+
 
 
 Since I don't know the last time this kettle has been cleaned in its past 100+ years, I decided that I would forsake Hojo's no-scrubbing recommendation since his advice is primarily for the new tetsubin that he sells. 
