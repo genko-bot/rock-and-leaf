@@ -77,7 +77,7 @@ Here's how she looked before:
 Quickly, I realized that this was not enough. As the water heated, I noticed a tiny stream of bubbles rising to the surface. Frantically, I searched the bottom, but there was no leak in sight. What I mistakenly assumed was sloppy craftsmanship or just signs of rust turned out to be a much deeper mystery: the entire bottom of the pot was covered in a thick layer of scale and something black concealing it!
 
 <div style="text-align: center;">
-    <img src="/assets/article_images/IMG_7595.jpg" alt="Before restoration: Layers of scale and rust concealed the kettle’s true condition" width="600">
+    <img src="/assets/article_images/IMG_7595.jpg" alt="Before restoration: Layers of scale and an unknown black substance concealed the kettle’s true condition" width="600">
 </div>
 Quickly I got to work chipping away this scale layer. To aid the process, I added distilled white vinegar and let it soak for around 20 minutes or so. Here's what she looked like after some elbow grease:
 <div style="text-align: center;">
