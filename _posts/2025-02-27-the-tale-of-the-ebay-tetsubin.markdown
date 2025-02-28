@@ -98,10 +98,10 @@ I continued by refreshing the vinegar and kept removing the scale. After several
 At this point,  I was consumed with the idea of restoring this tetsubin to working condition. I decided I needed to create another game plan by searching the Japanese side of the web.
 
 <a href="https://oigen.jp/enjoy/firsttouch/18660" target="_blank"><strong>Oigen</strong></a>—a tetsubin manufacturer—recommends the following precedure:
-Step 1: Put the tea leaves into the iron kettle with water and place it on the fire.
-Step 2: Boil for about 20 minutes and add water.
-Step 3: Leave it as it is for about half a day
-Step 4: Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
+>Step 1: Put the tea leaves into the iron kettle with water and place it on the fire.
+>Step 2: Boil for about 20 minutes and add water.
+>Step 3: Leave it as it is for about half a day
+>Step 4: Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
 
 Interestingly, a contributer <a href="https://www.shuminoengei.jp/?m=pc&a=page_mo_diary_detail&target_c_diary_id=1039552" target="_blank"><strong>here</strong></a> sings the praises of vinegar to remove rust. This is the first account I have seen in Japanese of someone using vinegar to remove tetsubin rust with success. Here, the author did something that I did not: let the vinegar soak for 20 hours.
 
