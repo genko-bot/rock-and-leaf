@@ -100,7 +100,7 @@ At this point,  I was consumed with the idea of restoring this tetsubin to worki
 3. Complete two to three tea leaf boils with low quality black tea. since that is what I had on hand.
 4. If the interior still looked very rusted, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
 
- ## Final Thoughts
+## Final Thoughts
 Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about rediscovering the art of tea itself. The process taught me patience, research skills, and an appreciation for craftsmanship that spans generations. Now, every time I boil water in it, I feel connected to its history. Was it worth it? Absolutely.
 
 ## References
