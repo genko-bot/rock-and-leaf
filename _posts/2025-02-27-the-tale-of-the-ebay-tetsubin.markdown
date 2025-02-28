@@ -110,8 +110,8 @@ Since there was still some stubborn scale and a decent amount of rust, I decided
 1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk. Let soak for the evening (around 5 hours).
 2. Complete another tea leaf boil with low quality black tea (since that is what I have on hand) and let soak overnight.
 3. Drain, rinse, and do a pure water boil.
-4. If the interior still looks very rusted, complete one to two more tea leaf boils and soaks.
-5. If that does not work, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
+4.  If the interior still looks very rusted, complete one to two more tea leaf boils and soaks.
+5.  If that does not work, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
 
 ## Final Thoughts
 Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about rediscovering the art of tea itself. The process taught me patience and an appreciation for craftsmanship that spans generations. Now, every time I boil water in it, I feel connected to its history. Was it worth it? Absolutely.
