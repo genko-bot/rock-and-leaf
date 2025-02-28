@@ -54,10 +54,6 @@ To blacken the pot, boil water and green tea leaves (use the cheap stuff) in the
   </tr>
 </table>
 
-<div style="text-align: center;">
-    <img src="/assets/article_images/IMG_7582.jpg" alt="Before restoration" width="600">
-</div>
-
 ## The Process
 ### Day One
 Since I don't know the last time this kettle has been cleaned in its past 100+ years, I decided that I would forsake Hojo's no-scrubbing recommendation since his advice is primarily for the new tetsubin that he sells. 
@@ -97,16 +93,16 @@ I continued by refreshing the vinegar and kept removing the scale. After several
     <img src="/assets/article_images/IMG_7612.jpg" alt="Interior mid-revelation" width="600">
 </div>
 
-
-##Final Thoughts
-Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about rediscovering the art of tea itself. The process taught me patience, research skills, and an appreciation for craftsmanship that spans generations. Now, every time I boil water in it, I feel connected to its history. Was it worth it? Absolutely.
-
 ### Day Two
 At this point,  I was consumed with the idea of restoring this tetsubin to working condition. I decided I needed to create another game plan. After once again scouring the internet for leads, I decided on this plan:
 1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk.
 2. Scour with steel wool. 
 3. Complete two to three tea leaf boils with low quality black tea. since that is what I had on hand.
 4. If the interior still looked very rusted, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
+
+ ## Final Thoughts
+Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about rediscovering the art of tea itself. The process taught me patience, research skills, and an appreciation for craftsmanship that spans generations. Now, every time I boil water in it, I feel connected to its history. Was it worth it? Absolutely.
+
 ## References
 Hiratsuka, H., Takeno, K., & Sasaki, K. (2004). Water quality changes with heating of tap water using Nanbu iron kettle and foreign-made iron kettle. *Japan Journal of Food Engineering (Japan), 5(2).*
 
