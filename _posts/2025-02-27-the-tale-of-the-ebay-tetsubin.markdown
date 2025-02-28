@@ -107,7 +107,7 @@ Interestingly, a contributer <a href="https://www.shuminoengei.jp/?m=pc&a=page_m
 
 Since there was still some stubborn scale and a decent amount of rust, I decided on a hybrid approach which took into account these pieces of advice.
 
-1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk. Let soak for the evening (around 
+1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk. Let soak for the evening (around 5 hours).
 2. Complete another tea leaf boil with low quality black tea (since that is what I have on hand) and let soak overnight.
 3. Drain, rinse, and do a pure water boil.
 4. If the interior still looks very rusted, complete one to two more tea leaf boils and soaks.
