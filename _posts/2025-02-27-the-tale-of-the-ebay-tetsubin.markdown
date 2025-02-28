@@ -97,7 +97,7 @@ I continued by refreshing the vinegar and kept removing the scale. After several
 At this point,  I was consumed with the idea of restoring this tetsubin to working condition. I decided I needed to create another game plan. After once again scouring the internet for leads, I decided on this plan:
 1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk.
 2. Scour with steel wool. 
-3. Complete two to three tea leaf boils with low quality black tea. since that is what I had on hand.
+3. Complete two to three tea leaf boils with low quality black tea since that is what I had on hand.
 4. If the interior still looked very rusted, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
 
 ## Final Thoughts
