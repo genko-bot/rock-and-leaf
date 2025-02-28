@@ -90,7 +90,7 @@ A part of me almost felt bad for removing the layers of scale; it was like remov
 
 I continued by refreshing the vinegar and kept removing the scale. After several vinegar boils, a pure water boil, and then another 30 minute session tea leaf boil, I was out of time (and vinegar) for the evening. This is the result:
 <div style="text-align: center;">
-    <img src="/assets/article_images/IMG_7612.jpg" alt="Interior mid-revelation" width="600">
+    <img src="/assets/article_images/IMG_7612.jpg" alt="Interior at the end of day one" width="600">
 </div>
 
 ### Day Two
