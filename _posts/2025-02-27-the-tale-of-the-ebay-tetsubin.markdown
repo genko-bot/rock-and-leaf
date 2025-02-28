@@ -86,7 +86,8 @@ Quickly I got to work chipping away this scale layer. To aid the process, I adde
 <div style="text-align: center;">
     <img src="/assets/article_images/IMG_7600.jpg" alt="" width="600">
 </div>
-A part of me almost felt bad for removing the layers of scale; it was like removing the life story of the kettle. But at this point, it was not going to be usable if it was discoloring the water and spitting up pieces of scale and black flecks. I was reminded that I was giving a piece another chance to do what it was meant to, and that soothed my worries.
+
+At this point, a part of me almost felt bad for removing the layers of scale; it was like removing the life story of the kettle. But at this point, it was not going to be usable if it was discoloring the water and spitting up pieces of scale and black flecks. I was reminded that I was giving a piece another chance to do what it was meant to, and that soothed my worries.
 
 I continued by refreshing the vinegar and kept removing the scale. After several vinegar boils, a pure water boil, and then another 30 minute session tea leaf boil, I was out of time (and vinegar) for the evening. This is the result:
 <div style="text-align: center;">
@@ -94,11 +95,23 @@ I continued by refreshing the vinegar and kept removing the scale. After several
 </div>
 
 ### Day Two
-At this point,  I was consumed with the idea of restoring this tetsubin to working condition. I decided I needed to create another game plan. After once again scouring the internet for leads, I decided on this plan:
-1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk.
-2. Scour with steel wool. 
-3. Complete two to three tea leaf boils with low quality black tea since that is what I had on hand.
-4. If the interior still looked very rusted, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
+At this point,  I was consumed with the idea of restoring this tetsubin to working condition. I decided I needed to create another game plan by searching the Japanese side of the web.
+
+<a href="https://oigen.jp/enjoy/firsttouch/18660" target="_blank"><strong>Oigen</strong></a>—a tetsubin manufacturer—recommends the following precedure:
+Step 1: Put the tea leaves into the iron kettle with water and place it on the fire.
+Step 2: Boil for about 20 minutes and add water.
+Step 3: Leave it as it is for about half a day
+Step 4: Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
+
+Interestingly, a contributer <a href="https://www.shuminoengei.jp/?m=pc&a=page_mo_diary_detail&target_c_diary_id=1039552" target="_blank"><strong>here</strong></a> sings the praises of vinegar to remove rust. This is the first account I have seen in Japanese of someone using vinegar to remove tetsubin rust with success. Here, the author did something that I did not: let the vinegar soak for 20 hours.
+
+Since there was still some stubborn scale and a decent amount of rust, I decided on a hybrid approach which took into account these pieces of advice.
+
+1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk. Let soak for the evening (around 
+3. Complete another tea leaf boil with low quality black tea (since that is what I have on hand) and let soak overnight.
+4. Drain, rinse, and do a pure water boil.
+5. If the interior still looks very rusted, complete one to two more tea leaf boils and soaks.
+6. If that does not work, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
 
 ## Final Thoughts
 Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about rediscovering the art of tea itself. The process taught me patience and an appreciation for craftsmanship that spans generations. Now, every time I boil water in it, I feel connected to its history. Was it worth it? Absolutely.
