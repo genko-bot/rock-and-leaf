@@ -8,7 +8,7 @@ categories: [tea, tetsubin]
 
 Have you ever wondered why tea brewed in one place tastes better than in another? The secret might not be the tea itself, but the water—and how you treat it. Tea is nearly 100% water, so it follows that water quality is one of the most important factors influencing how your tea tastes. Exploring the water-softening magic of the tetsubin, I took a gamble on an antique find from eBay. This post details my research, restoration process, and first-hand experience with this storied Japanese tea kettle.
 ## The Tetsubin
-Who can resist the tales of the tetsubin's magical water-softening properties? For the uninitiated, the idea is simple: water, when boiled in a tetsubin (or other iron vessel), is said to improve the quality of the water. This is not just speculation, as a 2004 study by Hiratsuka et colleagues (2004) found that found that iron compounds released in the water bind to tannins, which affect the flavor of the tea. The amount of iron in water (along with other minerals) has also been shown to influence how we perceive the taste of both natural and artificial sweeteners (Wang et al. 2016).
+Who can resist the tales of the tetsubin's magical water-softening properties? For the uninitiated, the idea is simple: water, when boiled in a tetsubin (or other iron vessel), is said to improve the quality of the water. This is not just speculation, as a 2004 study by Hiratsuka et colleagues (2004) found that iron compounds released in the water bind to tannins, which affect the flavor of the tea. The amount of iron in water (along with other minerals) has also been shown to influence how we perceive the taste of both natural and artificial sweeteners (Wang et al. 2016).
 
 These findings are unsurprising. If you have ever lived in a place with very hard water, you know exactly what I am talking about. Where I grew up, the water was so hard that it left scale everywhere and made the tap water taste awful. Luckily, where I currently live has significantly softer water. Intrigued by these benefits, I decided to acquire a tetsubin of my own—but as I soon learned, buying and restoring an antique one comes with its own challenges.
 ## The Dilemma
@@ -18,7 +18,7 @@ After scouring listings, I settled on one that stood out—not just for its hist
 
 One challenge, however, was verifying the authenticity of the tetsubin. It’s hard to find reliable information about how to date these kettles, but after closely inspecting the bottom, I believe mine is authentic. The mark on the bottom appears to have been hand-poured, a characteristic of older, handcrafted tetsubin. To verify this, I watched a couple of YouTube videos that showed similar marks on the bottoms of handmade tetsubin [here](https://www.youtube.com/watch?v=pqrJC8D3eEs) and [here](https://www.youtube.com/watch?v=i9bt1W4SyRI). Seeing these examples gave me more confidence that my tetsubin was a genuine antique.
 
-Perhaps unsurpringly, the path to restoration was one fraught without a clear guide in English. If you have read anything about tetsubin care on the internet, 100 people will tell you 100 different things. Because of this, I decided to collect and summarize the information out there so that I could form a game plan for when my slightly rusty and a little gnarly antique tetsubin arrives.
+Perhaps unsurprisingly, the path to restoration was one fraught without a clear guide in English. If you have read anything about tetsubin care on the internet, 100 people will tell you 100 different things. Because of this, I decided to collect and summarize the information out there so that I could form a game plan for when my slightly rusty and a little gnarly antique tetsubin arrives.
 ### Hojo Tea
 For a new tetsubin, Hojo Tea recommends the following key points:
 
@@ -115,10 +115,10 @@ Since there was still some stubborn scale and a decent amount of rust, I decided
 ### Day Three
 In the morning, I eagerly ran to the kitchen to see what had transpired overnight. The tea inside the kettle had turned an inky black and I quickly poured it out. To my delight, the rust was now mostly black!
 
-After a pure water boil, which came out smelling like weak black tea, I decided on my next step: rebuilding the scale layer. Since my tap water is fairly soft, I chose to use Crystal Geyser (<a href="https://www.crystalgeyserplease.com/_files/ugd/700b27_01c44c6de2604aac84f2b47f93ac3f19.pdf" target="_blank"><strong>TDS 140mg/L</strong></a>) since it is what I had on hand. Letting the water boil and reduce by two thirds before gently and slowly refilling build a subtle but noticable mineral patina. 
+After a pure water boil, which came out smelling like weak black tea, I decided on my next step: rebuilding the scale layer. Since my tap water is fairly soft, I chose to use Crystal Geyser (<a href="https://www.crystalgeyserplease.com/_files/ugd/700b27_01c44c6de2604aac84f2b47f93ac3f19.pdf" target="_blank"><strong>TDS 140mg/L</strong></a>) since it is what I had on hand. Letting the water boil and reduce by two thirds before gently and slowly refilling build a mineral patina. 
 
-## Why It Works
-I was curious to investigate the chemistry behind the boiling tea in a rusty tetsubin fix. As it turns out, red rust (or ferric oxide), when combined with tannic acid (of which tea has plenty), forms the blue-black ferric tannate, effectivly "darkening" the rust. This compound is more stable than red rust, which is unsurprisingly suceptable to moisture-based worsening. 
+### Why It Works
+I was curious to investigate the chemistry behind the boiling tea in a rusty tetsubin fix. As it turns out, red rust (or ferric oxide), when combined with tannic acid (of which tea has plenty), forms the blue-black ferric tannate, effectivly "darkening" the rust. This compound is more stable than red rust, which is unsurprisingly susceptable to moisture-based worsening. 
 
 ## Final Thoughts
 Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about rediscovering the art of tea itself. The process taught me patience and an appreciation for craftsmanship that spans generations. Now, every time I boil water in it, I feel connected to its history. Was it worth it? Absolutely.
