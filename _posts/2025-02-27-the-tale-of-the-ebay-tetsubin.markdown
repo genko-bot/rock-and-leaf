@@ -118,7 +118,9 @@ In the morning, I eagerly ran to the kitchen to see what had transpired overnigh
 After a pure water boil, which came out smelling like weak black tea, I decided on my next step: rebuilding the scale layer. Since my tap water is fairly soft, I chose to use Crystal Geyser (<a href="https://www.crystalgeyserplease.com/_files/ugd/700b27_01c44c6de2604aac84f2b47f93ac3f19.pdf" target="_blank"><strong>TDS 140mg/L</strong></a>) since it is what I had on hand. Letting the water boil and reduce by two thirds before gently and slowly refilling build a mineral patina. 
 
 ### Why It Works
-I was curious to investigate the chemistry behind the boiling tea in a rusty tetsubin fix. As it turns out, red rust (or ferric oxide), when combined with tannic acid (of which tea has plenty), forms the blue-black ferric tannate, effectivly "darkening" the rust. This compound is more stable than red rust, which is unsurprisingly susceptable to moisture-based worsening. 
+After seeing the transformation in my tetsubin, I couldn't help but wonder—what exactly was happening on a chemical level? How did the rust, once reddish and flaky, turn into a stable black coating? As it turns out, the answer lies in the interaction between iron and tannins.
+
+Red rust (or ferric oxide), when combined with tannic acid (of which tea has plenty), forms the blue-black ferric tannate, effectivly "darkening" the rust. This compound is more stable than red rust, which is unsurprisingly susceptable to moisture-based worsening. 
 
 ## Final Thoughts
 Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about rediscovering the art of tea itself. The process taught me patience and an appreciation for craftsmanship that spans generations. Now, every time I boil water in it, I feel connected to its history. Was it worth it? Absolutely.
