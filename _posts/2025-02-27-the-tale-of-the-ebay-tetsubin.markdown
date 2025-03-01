@@ -108,12 +108,14 @@ Interestingly, a contributer <a href="https://www.shuminoengei.jp/?m=pc&a=page_m
 Since there was still some stubborn scale and a decent amount of rust, I decided on a hybrid approach which took into account these pieces of advice.
 
 1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk. Let soak for longer (around two hours).
-2. Complete another tea leaf boil with low quality black tea (since that is what I have on hand) and let soak.
+2. Complete another tea leaf boil with low quality black tea (since that is what I have on hand) and let soak overnight.
 3. Drain, rinse, and do a pure water boil.
 4. If the interior still looks very rusted, complete one to two more tea leaf boils and soaks.
 5. If that does not work, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
+### Day Three
+In the morning, I eagerly ran to the kitchen to see what had transpired overnight. The tea inside the kettle had turned an inky black and I quickly poured it out. To my delight, the rust was now mostly black!
 
-
+After a pure water boil, which came out smelling like weak black tea, I decided on my next step: rebuilding the scale layer. Since my tap water is fairly soft, I chose to use Crystal Geyser (<a href="https://www.crystalgeyserplease.com/_files/ugd/700b27_01c44c6de2604aac84f2b47f93ac3f19.pdf" target="_blank"><strong>TDS 140mg/L</strong></a>) since it is what I had on hand. Letting the water boil and reduce by two thirds before gently and slowly refilling build a subtle but noticable mineral patina. 
 
 ## Why It Works
 I was curious to investigate the chemistry behind the boiling tea in a rusty tetsubin fix. As it turns out, red rust (or ferric oxide), when combined with tannic acid (of which tea has plenty), forms the blue-black ferric tannate, effectivly "darkening" the rust. This compound is more stable than red rust, which is unsurprisingly suceptable to moisture-based worsening. 
