@@ -112,6 +112,7 @@ Since there was still some stubborn scale and a decent amount of rust, I decided
 3. Drain, rinse, and do a pure water boil.
 4. If the interior still looks very rusted, complete one to two more tea leaf boils and soaks.
 5. If that does not work, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
+
 ### Day Three
 In the morning, I eagerly ran to the kitchen to see what had transpired overnight. The tea inside the kettle had turned an inky black and I quickly poured it out. To my delight, the rust was now mostly black!
 
