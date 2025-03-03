@@ -69,6 +69,6 @@ For extra protection, I spent the day cycling through boils of Ice Mountain wate
 Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about embracing patience, presence, and the beauty of craftsmanship. Now, after many uses, I’ve come to appreciate not just its history but also the quiet ritual it adds to my daily tea. Its aesthetic charm and the subtle way it transforms water remind me why this journey was worth it.
 
 ## References
-Hiratsuka, H., Takeno, K., & Sasaki, K. (2004). Water quality changes with heating of tap water using Nanbu iron kettle and foreign-made iron kettle. *Japan Journal of Food Engineering (Japan), 5(2).*
+- Hiratsuka, H., Takeno, K., & Sasaki, K. (2004). *Water quality changes with heating of tap water using Nanbu iron kettle and foreign-made iron kettle.* Japan Journal of Food Engineering, 5(2).  
+- Wang, A., Duncan, S. E., & Dietrich, A. M. (2016). *Effect of iron on taste perception and emotional response of sweetened beverages under different water conditions.* Food Quality and Preference, 54, 58-66.  
 
-Wang, A., Duncan, S. E., & Dietrich, A. M. (2016). Effect of iron on taste perception and emotional response of sweetened beverage under different water conditions. Food Quality and Preference, 54, 58-66.
