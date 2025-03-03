@@ -111,7 +111,7 @@ I decided on this plan:
 3. Complete two to three tea leaf boils with low quality black tea since that is what I had on hand. Soak overnight.
 4. If the interior still looked very rusted, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
 
-###Day Three
+### Day Three
 After an overnight tea soak, the interior was looking thouroughly black in the morning. I decided against a potato boil since I was happy with the transformation. 
 <div style="text-align: center;">
     <img src="/assets/article_images/IMG_7642.jpg" alt="The interior, now blackened" width="600">
