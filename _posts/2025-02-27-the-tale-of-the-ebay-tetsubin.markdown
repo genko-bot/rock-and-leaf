@@ -100,7 +100,7 @@ Oigen, a Japanese cast iron foundry, recommends the following care for rusty tet
 > 1. Put the tea leaves into the iron kettle with water and place it on the fire.
 > 2. Boil for about 20 minutes and add water.
 > 3. Leave it as it is for about half a day
-> 4.Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
+> 4. Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
 
 I decided on this plan:
 1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk.
