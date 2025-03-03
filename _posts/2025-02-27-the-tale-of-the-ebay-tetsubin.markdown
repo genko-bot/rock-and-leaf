@@ -97,15 +97,11 @@ I continued by refreshing the vinegar and kept removing the scale. After several
 By this point,  I was fully consumed with the idea of restoring this tetsubin to working condition. I decided I needed to create another game plan. English language websites were full of conflicting information, so I decided to pop over to the Japanese web to see what I could find. 
 
 Oigen, a Japanese cast iron foundry, recommends the following care for rusty tetsubin:
-> Step 1: Put the tea leaves into the iron kettle with water and place it on the fire.
-> Step 2: Boil for about 20 minutes and add water.
-> Step 3: Leave it as it is for about half a day
-> Step 4: Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
-
-
+> 1. Put the tea leaves into the iron kettle with water and place it on the fire.
+> 2. Boil for about 20 minutes and add water.
+> 3. Leave it as it is for about half a day
+> 4.Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
 I decided on this plan:
-
-
 1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk.
 2. Scour with steel wool. 
 3. Complete two to three tea leaf boils with low quality black tea since that is what I had on hand. Soak overnight.
@@ -117,7 +113,7 @@ After an overnight tea soak, the interior was looking thouroughly black in the m
     <img src="/assets/article_images/IMG_7642.jpg" alt="The interior, now blackened" width="600">
 </div>
 
-In order to add some extra protection, I spent the rest of the day boiling down and refilling the tetsubin with Ice Mountain, since it has a higher TDS than my tap water. A mineral layer had already begun to present itsself.
+In order to add some extra protection, I spent the rest of the day boiling down and refilling the tetsubin with Ice Mountain, since it has a higher TDS than my tap water. A mineral layer had already begun to present itself.
 
 <div style="text-align: center;">
     <img src="/assets/article_images/IMG_7660.jpg" alt="Minerals are beginning to build up already" width="600">
