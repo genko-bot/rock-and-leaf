@@ -18,7 +18,7 @@ After scouring listings, I settled on one that stood out—not just for its hist
 
 One challenge, however, was verifying the authenticity of the tetsubin. It’s hard to find reliable information about how to date these kettles, but after closely inspecting the bottom, I believe mine is authentic. The mark on the bottom appears to have been hand-poured, a characteristic of older, handcrafted tetsubin. To verify this, I watched a couple of YouTube videos that showed similar marks on the bottoms of handmade tetsubin [here](https://www.youtube.com/watch?v=pqrJC8D3eEs) and [here](https://www.youtube.com/watch?v=i9bt1W4SyRI). Seeing these examples gave me more confidence that my tetsubin was a genuine antique.
 
-Perhaps unsurprisingly, the path to restoration was one fraught without a clear guide in English. If you have read anything about tetsubin care on the internet, 100 people will tell you 100 different things. Because of this, I decided to collect and summarize the information out there so that I could form a game plan for when my slightly rusty and a little gnarly antique tetsubin arrives.
+Perhaps unsurpringly, the path to restoration lacked a clear guide in English. If you have read anything about tetsubin care on the internet, 100 people will tell you 100 different things. Because of this, I decided to collect and summarize the information out there so that I could form a game plan for when my slightly rusty and a little gnarly antique tetsubin arrives.
 ### Hojo Tea
 For a new tetsubin, Hojo Tea recommends the following key points:
 
@@ -86,8 +86,7 @@ Quickly I got to work chipping away this scale layer. To aid the process, I adde
 <div style="text-align: center;">
     <img src="/assets/article_images/IMG_7600.jpg" alt="" width="600">
 </div>
-
-At this point, a part of me almost felt bad for removing the layers of scale; it was like removing the life story of the kettle. But at this point, it was not going to be usable if it was discoloring the water and spitting up pieces of scale and black flecks. I was reminded that I was giving a piece another chance to do what it was meant to, and that soothed my worries.
+A part of me almost felt bad for removing the layers of scale; it was like removing the life story of the kettle. But at this point, it was not going to be usable if it was discoloring the water and spitting up pieces of scale and black flecks. I was reminded that I was giving a piece another chance to do what it was meant to, and that soothed my worries.
 
 I continued by refreshing the vinegar and kept removing the scale. After several vinegar boils, a pure water boil, and then another 30 minute session tea leaf boil, I was out of time (and vinegar) for the evening. This is the result:
 <div style="text-align: center;">
@@ -95,40 +94,39 @@ I continued by refreshing the vinegar and kept removing the scale. After several
 </div>
 
 ### Day Two
-At this point,  I was consumed with the idea of restoring this tetsubin to working condition. I decided I needed to create another game plan by searching the Japanese side of the web.
+By this point,  I was fully consumed with the idea of restoring this tetsubin to working condition. I decided I needed to create another game plan. English language websites were full of conflicting information, so I decided to pop over to the Japanese web to see what I could find. 
 
-<a href="https://oigen.jp/enjoy/firsttouch/18660" target="_blank"><strong>Oigen</strong></a>—a tetsubin manufacturer—recommends the following precedure:
->1. Put the tea leaves into the iron kettle with water and place it on the fire.
->2. Boil for about 20 minutes and add water.
->3. Leave it as it is for about half a day
->4. Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
+Oigen, a Japanese cast iron foundry, recommends the following care for rusty tetsubin:
+> Step 1: Put the tea leaves into the iron kettle with water and place it on the fire.
+> Step 2: Boil for about 20 minutes and add water.
+> Step 3: Leave it as it is for about half a day
+> Step 4: Discard the hot water and tea leaves. If the boiled water is clear, the process is complete! If you are still concerned about rust, repeat steps 2 and 3 several times.
 
-Interestingly, a contributer <a href="https://www.shuminoengei.jp/?m=pc&a=page_mo_diary_detail&target_c_diary_id=1039552" target="_blank"><strong>here</strong></a> sings the praises of vinegar to remove rust. This is the first account I have seen in Japanese of someone using vinegar to remove tetsubin rust with success. Here, the author did something that I did not: let the vinegar soak for 20 hours.
 
-Since there was still some stubborn scale and a decent amount of rust, I decided on a hybrid approach which took into account these pieces of advice.
+I decided on this plan:
 
-1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk. Let soak for longer (around two hours).
-2. Complete another tea leaf boil with low quality black tea (since that is what I have on hand) and let soak overnight.
-3. Drain, rinse, and do a pure water boil.
-4. If the interior still looks very rusted, complete one to two more tea leaf boils and soaks.
-5. If that does not work, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
 
-### Day Three
-In the morning, I eagerly ran to the kitchen to see what had transpired overnight. The tea inside the kettle had turned an inky black and I quickly poured it out. To my delight, the rust was now mostly black!
+1. One more vinegar soak/boil to dissolve any remaining gunk that remained, giving special attention to the upper 1/3 of the interior where there was still a later of gunk.
+2. Scour with steel wool. 
+3. Complete two to three tea leaf boils with low quality black tea since that is what I had on hand. Soak overnight.
+4. If the interior still looked very rusted, try a potato boil as suggested by <a href="https://www.teachat.com/viewtopic.php?t=12830" target="_blank"><strong>tsusentei</strong></a> on the TeaChat Forum.
 
-After a pure water boil, which came out smelling like weak black tea, I decided on my next step: rebuilding the scale layer. Since my tap water is fairly soft, I chose to use Crystal Geyser (<a href="https://www.crystalgeyserplease.com/_files/ugd/700b27_01c44c6de2604aac84f2b47f93ac3f19.pdf" target="_blank"><strong>TDS 140mg/L</strong></a>) since it is what I had on hand. Letting the water boil and reduce by two thirds before gently and slowly refilling build a mineral patina. 
+###Day Three
+After an overnight tea soak, the interior was looking thouroughly black in the morning. I decided against a potato boil since I was happy with the transformation. 
+<div style="text-align: center;">
+    <img src="/assets/article_images/IMG_7642.jpg" alt="The interior, now blackened" width="600">
+</div>
 
-### Why It Works
-After seeing the transformation in my tetsubin, I couldn't help but wonder—what exactly was happening on a chemical level? How did the rust, once reddish and flaky, turn into a stable black coating? As it turns out, the answer lies in the interaction between iron and tannins.
+In order to add some extra protection, I spent the rest of the day boiling down and refilling the tetsubin with Ice Mountain, since it has a higher TDS than my tap water. A mineral layer had already begun to present itsself.
 
-Red rust (or ferric oxide), when combined with tannic acid (of which tea has plenty), forms the blue-black ferric tannate, effectivly "darkening" the rust. This compound is more stable than red rust, which is unsurprisingly susceptable to moisture-based worsening. 
+<div style="text-align: center;">
+    <img src="/assets/article_images/IMG_7660.jpg" alt="Minerals are beginning to build up already" width="600">
+</div>
 
 ## Final Thoughts
-Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about rediscovering the art of tea itself. The process taught me patience and an appreciation for craftsmanship that spans generations. Now, every time I boil water in it, I feel connected to its history. Was it worth it? Absolutely.
+Restoring this antique tetsubin wasn’t just about bringing an old kettle back to life—it was about embracing patience, presence, and the beauty of craftsmanship. Now, after many uses, I’ve come to appreciate not just its history but also the quiet ritual it adds to my daily tea. Its aesthetic charm and the subtle way it transforms water remind me why this journey was worth it.
 
 ## References
 Hiratsuka, H., Takeno, K., & Sasaki, K. (2004). Water quality changes with heating of tap water using Nanbu iron kettle and foreign-made iron kettle. *Japan Journal of Food Engineering (Japan), 5(2).*
 
 Wang, A., Duncan, S. E., & Dietrich, A. M. (2016). Effect of iron on taste perception and emotional response of sweetened beverage under different water conditions. Food Quality and Preference, 54, 58-66.
-
-
