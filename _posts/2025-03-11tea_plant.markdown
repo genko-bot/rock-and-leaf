@@ -1,6 +1,6 @@
 ---
 title: "Growing Tea (Camellia sinensis) in Pots"
-date: "2025-02-25"
+date: "2025-03-11"
 summary: ""
 layout: "post"
 categories: [tea, gardening, camellia-sinensis]
