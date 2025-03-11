@@ -6,14 +6,6 @@ layout: "post"
 categories: [tea, gardening, camellia-sinensis]
 published: "true"
 ---
----
-layout: post
-title: "Growing My Own Tea: Starting with Seeds and Plants"
-date: 2025-03-11
-categories: [gardening, tea, indoor plants]
-tags: [tea plants, Camellia sinensis, seed starting, indoor gardening]
----
-
 ## Falling Down the Tea Cultivation Rabbit Hole  
 
 With temperatures rising in my area, my green thumb is itching to fill my home with as many plants as possible. Given my love of tea, I quickly fell down the *Camellia sinensis* cultivation rabbit hole.  
