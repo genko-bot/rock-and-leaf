@@ -4,20 +4,63 @@ date: "2025-02-25"
 summary: ""
 layout: "post"
 categories: [tea, gardening, camellia-sinensis]
-published: "false"
+published: "true"
 ---
-With temperatures rising in my area, my green thumb is itching to fill my home with as many plants as possible. Given my love of tea, I quickly fell down the Camellia sinensis cultivation rabbit hole.
+---
+layout: post
+title: "Growing My Own Tea: Starting with Seeds and Plants"
+date: 2025-03-11
+categories: [gardening, tea, indoor plants]
+tags: [tea plants, Camellia sinensis, seed starting, indoor gardening]
+---
 
-I started by purchasing two small tea plants: ‘Chiri Mountain’ and ‘Bohea.’ Both should be great varieties, each with its own unique characteristics. ‘Chiri Mountain’ is a cold-hardy tea cultivar collected from the wild in Korea, while ‘Bohea’ is historically known as one of the original black and oolong tea varieties exported from China. Having these live plants gives me a head start while I wait for my seeds to germinate.
+## Falling Down the Tea Cultivation Rabbit Hole  
 
-Speaking of seeds, I also acquired 30 seeds of six different tea varieties (EV01, BC01, BC03, BC04, BC11, and Keemum) from the Great Mississippi Tea Company. I’m eager to see how they sprout and adapt to my indoor conditions. Germinating tea seeds can be tricky since they require patience (of which I am severely lacking), warmth, and consistent moisture. I’ve set up a controlled environment with humidity trays and repurposed my Aerogarden grow light to give them the best chance at success. Unlike many growers, I’m skipping a heating mat and will monitor germination rates under standard indoor conditions, adjusting only if necessary.
+With temperatures rising in my area, my green thumb is itching to fill my home with as many plants as possible. Given my love of tea, I quickly fell down the *Camellia sinensis* cultivation rabbit hole.  
 
-To ensure both my plants and seedlings thrive, I’ve put some thought into their environment:
+## My Tea Plants: A Head Start  
 
-Live Tea Plants: I placed them in a bright southern exposure where they’ll get a few hours of direct sunlight each day. I’ll be watching closely to ensure they don’t burn and will adjust their position if needed. They’re potted in well-draining, slightly acidic soil—ideal for Camellia sinensis. Watering will be a balancing act: moist but never soggy.
+I started by purchasing two small tea plants: **‘Chiri Mountain’** and **‘Bohea.’** Both should be great varieties, each with its own unique characteristics:  
 
-Seed Germination Setup: The seeds are in a seed-starting tray, resting in a mix of peat and perlite to retain moisture while preventing rot. I’ll be checking daily to maintain humidity and prevent drying out. No special heating tray—just patience, observation, and good airflow. I’ll track germination rates and see which varieties do best in my setup.
+- **‘Chiri Mountain’** – A cold-hardy tea cultivar collected from the wild in Korea.  
+- **‘Bohea’** – Historically known as one of the original black and oolong tea varieties exported from China.  
 
-One of the biggest challenges of growing tea indoors is replicating the ideal environment. Tea plants thrive in warm, humid conditions with bright, indirect light. Thankfully, my apartment’s southern exposure floods my space with sunlight, which should help my plants flourish. To combat dry indoor air, I’m experimenting with a humidifier and placing pebble trays near my plants to boost humidity levels.
+Having these live plants gives me a head start while I wait for my seeds to germinate.  
 
-I’m excited to document this journey—watching the plants grow, learning from any mistakes, and eventually harvesting and processing my own tea leaves. It’ll take time (tea plants typically take a few years to mature), but I find joy in the process itself.
+## Growing from Seed: Six Varieties to Experiment With  
+
+Speaking of seeds, I also acquired **30 seeds** of six different tea varieties (*EV01, BC01, BC03, BC04, BC11, and Keemum*) from the **Great Mississippi Tea Company.**  
+
+Germinating tea seeds can be tricky since they require patience (*of which I am severely lacking*), warmth, and consistent moisture. I’ve set up a controlled environment to give them the best chance at success:  
+
+- **Seed Tray & Medium**: The seeds are in a **peat and perlite** mix for good moisture retention without waterlogging.  
+- **Lighting**: I repurposed my **Aerogarden grow light** to provide consistent illumination.  
+- **Humidity**: Using **humidity trays** to keep conditions stable.  
+- **Heat? No Special Heating Mat** – I’m monitoring germination at room temperature and will adjust if necessary.  
+
+I'll be tracking germination rates to see which varieties do best in my setup!  
+
+## Creating the Right Environment  
+
+One of the biggest challenges of growing tea indoors is replicating the ideal environment. *Camellia sinensis* thrives in warm, humid conditions with bright, indirect light.  
+
+### Tea Plants Setup  
+
+- **Location**: Placed in a **southern exposure** with a few hours of direct sunlight. I’ll adjust their position if I notice any signs of leaf burn.  
+- **Soil**: Well-draining, **slightly acidic soil** (ideal for tea).  
+- **Watering**: Keeping the soil **moist but never soggy**—a delicate balance!  
+
+### Seed Germination Setup  
+
+- **Humidity**: Checking daily to maintain moisture levels.  
+- **Airflow**: No excessive covering to prevent mold growth.  
+- **Monitoring Growth**: Regularly observing and noting germination progress.  
+
+To combat dry indoor air, I’m also using a **humidifier** to keep humidity levels stable. I purchased a hydrometer to measure humidity.
+
+## The Long-Term Goal: Harvesting My Own Tea  
+
+I’m excited to document this journey—watching the plants grow, learning from any mistakes, and eventually harvesting and processing my own tea leaves.  
+
+It’ll take time (*tea plants typically take a few years to mature*), but I find joy in the process itself. Stay tuned for updates! 🌱🍵  
+
