@@ -3,4 +3,12 @@
 {% if site.float_logo %}
   <a href="{{ site.url }}{{ site.baseurl }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo }})"></span></a>
 {% endif %}
+
+<!-- Search Bar Start -->
+<form action="{{ site.baseurl }}/search.html" method="get" class="search-form">
+  <input type="text" name="q" placeholder="Search blog posts..." required>
+  <button type="submit">Search</button>
+</form>
+<!-- Search Bar End -->
+
 <!-- header end -->
