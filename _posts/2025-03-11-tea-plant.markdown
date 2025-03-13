@@ -1,5 +1,5 @@
 ---
-title: "Growing Tea (*Camellia sinensis*) in Pots"
+title: "Growing Tea (Camellia sinensis) in Pots"
 date: "2025-03-11"
 summary: ""
 layout: "post"
