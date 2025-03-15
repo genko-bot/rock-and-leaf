@@ -6,8 +6,6 @@ layout: "post"
 categories: [tea, oolong, yancha]
 published: "true"
 ---
-# Confessions of a Yancha Addict  
-
 **Dear Reader,**  
 
 I must confess something. It humbles me to admit it, but there’s no use in living in hiding—I am a yancha addict.  
