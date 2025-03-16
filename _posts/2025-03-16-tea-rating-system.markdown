@@ -37,7 +37,7 @@ And this brings me back to the idea of sommeliers and shared notions of “good�
 One person’s great tea might be another’s merely good one. And perhaps, that’s what makes tea so endlessly fascinating. 
 
 ## Quantifying Quality
-## My Personal Tea Ranking Scale  
+# My Personal Tea Ranking Scale  
 To better quantify my experiences, I’ve developed a **100-point ranking system** that takes into account multiple dimensions of tea quality.  
 
 Each tea is evaluated based on five categories, with a maximum of 20 points per category:  
