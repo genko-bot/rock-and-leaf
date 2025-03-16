@@ -1,5 +1,5 @@
 ---
-title: "My Personal Tea Ranting System"
+title: "My Personal Tea Rating System"
 date: "2025-03-16"
 summary: ""
 layout: "post"
