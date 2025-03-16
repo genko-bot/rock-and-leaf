@@ -6,9 +6,7 @@ layout: "post"
 categories: [tea, rating]
 ---
 
-Tea is a deeply personal experience. Each person perceives a given tea differently, bringing to the table prior knowledge, genetic predispositions, and unique perceptual quirks.  
-
-Because of this, I have always been fascinated by the notion of sommeliers or a culturally agreed-upon notion of "good X."  
+Tea is a deeply personal experience. Each person perceives a given tea differently, bringing to the table prior knowledge, genetic predispositions, and unique perceptual quirks. Because of this, I have always been fascinated by the notion of sommeliers or a culturally agreed-upon notion of "good X."  
 
 Let's use yancha as an example. To most, a bad yancha could be characterized as over-roasted, sour, or thin. It follows then that a good yancha is flavorful, soupy or creamy, and has the correct amount of roast for the varietal.  
 
