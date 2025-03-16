@@ -1,8 +1,8 @@
 ---
 
 [
-  {% for post in site.posts %}
-    {
+  {% for post in _posts %}
+  
       "title"    : "{{ post.title }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date_to_string }}",
