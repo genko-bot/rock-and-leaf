@@ -4,36 +4,4 @@
   <a href="{{ site.url }}{{ site.baseurl }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo }})"></span></a>
 {% endif %}
 
-<!-- Search Bar Start -->
-<style>
-  .search-form {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    margin-top: 10px;
-  }
-  .search-form input {
-    padding: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  .search-form button {
-    padding: 5px 10px;
-    margin-left: 5px;
-    background-color: #333;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  .search-form button:hover {
-    background-color: #555;
-  }
-</style>
-<form action="{{ site.baseurl }}/search.html" method="get" class="search-form">
-  <input type="text" name="q" placeholder="Search blog posts..." required>
-  <button type="submit">Search</button>
-</form>
-<!-- Search Bar End -->
-
 <!-- header end -->
