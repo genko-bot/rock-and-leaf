@@ -18,14 +18,23 @@ To begin, on 3/22/2025 I began soaking my seeds in tap water for 24 hours, as re
 Apparently, the seeds that float are likely dried-out and therefore weaker/less viable. *Figure 1* summarizes my observations on the seeds once added to the water.
 *Figure 1*
 
-| **Variety**  | **3pm - begin soak 3/22/25** | **3pm - end soak 3/23/25** |
-|----------|--------------------------|------------------------|
-| *BC01*     | 4 float                  | 0 float                |
-| *BC11*     | 0 float                  | 0 float                |
-| *EV01*     | 0 float                  | 0 float                |
-| *BC03*     | 0 float                  | 0 float                |
-| *BC04*     | 3 float                  | 2 float                |
-| *Keemun*   | 1 float                  | 0 float                |
+<table style="width:100%; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr style="background-color: #f4f4f4;">
+      <th style="padding: 10px; border: 1px solid #ddd;">Variety</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Begin Soak (3pm 3/22/25)</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">End Soak (3pm 3/23/25)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding: 10px; border: 1px solid #ddd;">BC01</td><td>4 float</td><td>0 float</td></tr>
+    <tr><td style="padding: 10px; border: 1px solid #ddd;">BC11</td><td>0 float</td><td>0 float</td></tr>
+    <tr><td style="padding: 10px; border: 1px solid #ddd;">EV01</td><td>0 float</td><td>0 float</td></tr>
+    <tr><td style="padding: 10px; border: 1px solid #ddd;">BC03</td><td>0 float</td><td>0 float</td></tr>
+    <tr><td style="padding: 10px; border: 1px solid #ddd;">BC04</td><td>3 float</td><td>2 float</td></tr>
+    <tr><td style="padding: 10px; border: 1px solid #ddd;">Keemun</td><td>1 float</td><td>0 float</td></tr>
+  </tbody>
+</table>
 
 The two *BC04* seeds that continued to float after 24 hours were covered in a relatively thick layer of white mold, which could explain why they did not sink.
 After soaking, I placed each seed in the seed starting trays under approximately an inch of potting mix. Each tray was labled with their corresponding variety, and the two *BC04* floaters were labled for further observation. 
