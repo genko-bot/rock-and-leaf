@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Rock & Leaf"
 description: > # this means to ignore newlines until "email:"
-   A tea blog
+    What interests me in blog form
 
 email: a-mail@mail.mail
 #blog logo
