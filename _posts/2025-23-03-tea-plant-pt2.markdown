@@ -4,9 +4,9 @@ date: "2025-03-11"
 summary: ""
 layout: "post"
 categories: [tea, gardening, camellia-sinensis]
-published: "false"
+published: "true"
 ---
-Check out 
+Check out part one [here]({% post_url 2025-03-11-tea-plant.markdown %})
 
 ## Finally, They're Here!
 My seeds arrived while I was on vacation, so as soon as I got back I was eager to get started. As a reminder, I ordered 6 varities: *EV01, BC01, BC03, BC04, BC11, and Keemum*.
