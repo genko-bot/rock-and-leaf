@@ -1,13 +1,12 @@
 ---
 title: "From a Humble Seed"
-date: "2025-03-11"
+date: "2025-03-23"
 summary: ""
 layout: "post"
 categories: [tea, gardening, camellia-sinensis]
 published: "true"
 ---
 Check out part one [here](https://www.rock-and-leaf.com/tea/gardening/camellia-sinensis/2025/03/11/tea-plant.html)
-
 ## Finally, They're Here!
 My seeds arrived while I was on vacation, so as soon as I got back I was eager to get started. As a reminder, I ordered 6 varities: *EV01, BC01, BC03, BC04, BC11, and Keemum*.
 Since my seeds had sat a bit, they were covered in white mold. Interestingly, *BC04* had the highest amount of mold. 
@@ -16,8 +15,9 @@ To begin, on 3/22/2025 I began soaking my seeds in tap water for 24 hours, as re
 <div style="text-align: center;">
     <img src="/assets/article_images/IMG_7897.jpg" alt="The seeds immediately after being added to the water." width="600">
 </div>
-Apparently, the seeds that float are likely dried-out and therefore weaker/less viable. Figure 1 summarizes my observations on the seeds once added to the water.
+Apparently, the seeds that float are likely dried-out and therefore weaker/less viable. *Figure 1* summarizes my observations on the seeds once added to the water.
 *Figure 1*
+
 | **Variety**  | **3pm - begin soak 3/22/25** | **3pm - end soak 3/23/25** |
 |----------|--------------------------|------------------------|
 | *BC01*     | 4 float                  | 0 float                |
