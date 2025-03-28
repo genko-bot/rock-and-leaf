@@ -1,0 +1,71 @@
+---
+title: "Building an ESP8266 Humidity Logger with OLED and ThingSpeak"
+date: 2025-03-25
+categories: [projects, IoT]
+tags: [ESP8266, BME280, OLED, ThingSpeak, Arduino]
+published: false
+---
+
+## Getting Started  
+
+I need to know what the ambient humidity and temperature is for my tea plants, which thrive in high humidity conditions. Unfortunately, most houses are uncomfortably dry for the plants, so I have been supplementing humidity with a humidifier. Right now, I have a cheap hygrometer and thermometer from Amazon, but I wanted to have a more elegant option that logs the data so that I can visualize it. This ties into my tea plant cultivation experiments, which are detailed here (link) and here (link).
+
+Since I’ve been kindling an interest in electronics and coding, I decided to build a small hygrometer monitoring station myself. Here’s what I used:
+(1) ESP8266 NodeMCU
+(1) SH1106 OLED
+(1) BME280 sensor
+Jumper wires
+Breadboard
+MicroUSB(to upload code and later to power device)
+The idea is to log temperature, humidity, and pressure (since the BME280 collects all three anyway) data to ThingSpeak for later analysis.  
+
+v1 (MVP 1): Hygrometer that displays the reading on a display
+V2 (MVP 2): Takes data and uploads it to the cloud
+
+## First Steps
+This project is mostly an experiment—I wanted to get comfortable working with an OLED display first, then move on to integrating a sensor and sending data to the cloud later.
+
+### The OLED Display  
+
+The first step was getting the SH1106 OLED display working with the ESP8266. Since I am a complete beginner with electronics, I relied heavily on the guides posted on Random Nerd Tutorials (link).
+
+To be honest, I probably spent four hours struggling with the wiring on this sucker. I don’t know if it was just my lack of experience or if there is an issue with the new breadboard that I bought, because the old breadboard that I had on hand managed to fix the issues I was having.
+
+Using the U8g2 library, I was able to display text easily. Here’s the basic setup:  
+
+```cpp
+#include <Wire.h>
+#include <U8g2lib.h>
+
+U8G2_SH1106_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE, D1, D2);
+
+void setup() {
+  u8g2.begin();
+}
+
+void loop() {
+  u8g2.clearBuffer();
+  u8g2.setFont(u8g2_font_ncenB08_tr);
+  u8g2.drawStr(0, 10, "Hello, ESP8266!");
+  u8g2.sendBuffer();
+  delay(1000);
+}
+//end code
+Seeing "Hello, ESP8266!" on the screen was a nice milestone!
+
+
+## A Small Setback: The BME280 Sensor
+Next, I wanted to connect a BME280 sensor to read temperature, humidity, and pressure. Unfortunately, I made a classic beginner mistake—I accidentally ordered an unsoldered BME280 module. Since I don’t know how to solder (yet), I had to put the sensor integration on hold while I wait for a pre-soldered module to arrive.
+This did give me some time to read up on I2C communication and how multiple devices can share the same bus (D1/D2 on the ESP8266). Once my new sensor arrives, I’ll update my code to integrate the BME280 and send data to ThingSpeak.
+## Finally, my BME280 is here!
+	After hooking up the BME280 to the prototype I already made, I edited my code to display the readings on the OLED.
+INSERT CODE
+
+	For some reason, ThingSpeak kept returning a -301 error. I struggled and struggled to debug the code over an evening, and eventually had to stop in order to save my sanity. With fresh eyes in the morning, I returned my code and added a segment that made the ESP8266 disconnect from the internet after the data was sent. I also removed the section that printed the readings to the OLED. 
+
+Final CODE
+
+	Finally, it worked! ThingSpeak was getting my data successfully every 20 seconds. 
+## Next Steps
+Create another for a pumidor to monitor my puerh!
+Maybe (finally) learn how to solder!
